@@ -1,6 +1,12 @@
 # kelsey-hightower-wisdom
 tweets &amp; quotes from Kelsey Hightower
 
+
+
+> *Once you've found **success**, your next goal should be **helping others** do the same. 11:58 PM - 19 Oct 2018* [tweet](https://twitter.com/kelseyhightower/status/1053389901117325312)
+
+
+
 > *What skills should I invest in? People skills. No. I mean what tools and best practices should I learn? Learn what **respect** is. Then use it on everyone around you. 8:08 PM - 26 Jun 2018* [tweet](https://twitter.com/kelseyhightower/status/1011808350529622016)
 
 
