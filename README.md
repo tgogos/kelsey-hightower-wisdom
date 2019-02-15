@@ -13,7 +13,7 @@ tweets &amp; quotes from Kelsey Hightower
 
 ## Tech...
 
-> *As an industry we tend to build overly complex solutions and dedicate our careers justifying their existence. This typically results in technical debt and ultimately bankruptcy. 8:47 AM - 14 Feb 2019* [tweet](https://twitter.com/kelseyhightower/status/1096088567170748416)
+> *As an industry we tend to build overly complex solutions and dedicate our careers justifying their existence. This typically results in **technical debt** and ultimately bankruptcy. 8:47 AM - 14 Feb 2019* [tweet](https://twitter.com/kelseyhightower/status/1096088567170748416)
 
 > *Selling **complexity** will eventually cost you. 5:06 PM - 14 Feb 2019* [tweet](https://twitter.com/kelseyhightower/status/1096063242672074753)
 
