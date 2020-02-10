@@ -13,6 +13,9 @@ tweets &amp; quotes from Kelsey Hightower
 
 ## Tech...
 
+> *People try to **copy Netflix**, but they can only copy what they see. You are **copying the results, not the process**. @adrianco
+ #softwarecircus* 11:08 AM · Sep 10, 2015 [tweet](https://twitter.com/kelseyhightower/status/641886057391345664)
+
 > *You haven't **mastered a tool** until you understand when it should not be used. 5:02 PM · Feb 13, 2018* [tweet](https://twitter.com/kelseyhightower/status/963428093292457984)
 
 > *As an industry we tend to build overly complex solutions and dedicate our careers justifying their existence. This typically results in **technical debt** and ultimately bankruptcy. 8:47 AM - 14 Feb 2019* [tweet](https://twitter.com/kelseyhightower/status/1096088567170748416)
