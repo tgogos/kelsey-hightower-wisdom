@@ -7,6 +7,8 @@ tweets &amp; quotes from Kelsey Hightower
 
 > *What skills should I invest in? People skills. No. I mean what tools and best practices should I learn? Learn what **respect** is. Then use it on everyone around you. 8:08 PM - 26 Jun 2018* [tweet](https://twitter.com/kelseyhightower/status/1011808350529622016)
 
+> ***Slow down** so you can speed up. 3:15 AM · Mar 26, 2018* [tweet](https://twitter.com/kelseyhightower/status/978062925972758529)
+
 > *The best you can do is solve the problems of today based on what you learned yesterday. **Keep learning and stay humble**.
 12:34 PM - 27 Nov 2016* [tweet](https://twitter.com/kelseyhightower/status/802973791059988480)
 
