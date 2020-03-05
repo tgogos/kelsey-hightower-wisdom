@@ -15,6 +15,8 @@ tweets &amp; quotes from Kelsey Hightower
 
 ## Tech...
 
+> *2020 prediction: Monolithic applications will be back in style after people discover the drawbacks of distributed monolithic applications. 6:40 PM · Dec 11, 2017* [tweet](https://twitter.com/kelseyhightower/status/940259898331238402)
+
 > *People try to **copy Netflix**, but they can only copy what they see. You are **copying the results, not the process**. @adrianco
  #softwarecircus* 11:08 AM · Sep 10, 2015 [tweet](https://twitter.com/kelseyhightower/status/641886057391345664)
 
