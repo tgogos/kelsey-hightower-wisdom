@@ -3,7 +3,7 @@ tweets &amp; quotes from Kelsey Hightower
 
 ## Life...
 
-> *We spend too much **time** making **money**. 9:18 PM · Mar 15, 2020* [tweet](https://twitter.com/kelseyhightower/status/1239269690137915392) 
+> *We spend too much **time** trying to make **money**. 10:38 PM · Mar 15, 2020* [tweet](https://twitter.com/kelseyhightower/status/1239290010454462464) 
 
 > *Once you've found **success**, your next goal should be **helping others** do the same. 11:58 PM - 19 Oct 2018* [tweet](https://twitter.com/kelseyhightower/status/1053389901117325312)
 
