@@ -12,6 +12,8 @@ tweets &amp; quotes from Kelsey Hightower
 > *The best you can do is solve the problems of today based on what you learned yesterday. **Keep learning and stay humble**.
 12:34 PM - 27 Nov 2016* [tweet](https://twitter.com/kelseyhightower/status/802973791059988480)
 
+> *We spend too much **time** making **money**. 9:18 PM · Mar 15, 2020* [tweet](https://twitter.com/kelseyhightower/status/1239269690137915392) 
+
 
 ## Tech...
 
