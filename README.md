@@ -48,6 +48,9 @@ tweets &amp; quotes from Kelsey Hightower
 > ***Container networking** is fundamentally incompatible with current **IaaS** offerings, and introduces a ton of complexity.
 9:42 PM - 15 Dec 2016* [tweet](https://twitter.com/kelseyhightower/status/809634759550767104)
 
-
+> ***service mess  /ˈsərvəs mes/***  
+*noun*  
+>  
+>*1. the result of **spending more compute resources than your actual business logic** dynamically generating and distributing Envoy proxy configs and TLS certificates. 12:43 AM · Jul 14, 2019* [tweet](https://twitter.com/kelseyhightower/status/1150158904900431873)
 
 
