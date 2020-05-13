@@ -53,4 +53,6 @@ tweets &amp; quotes from Kelsey Hightower
 >  
 >*1. the result of **spending more compute resources than your actual business logic** dynamically generating and distributing Envoy proxy configs and TLS certificates. 12:43 AM · Jul 14, 2019* [tweet](https://twitter.com/kelseyhightower/status/1150158904900431873)
 
+> *There is no single **continuous integration and delivery setup** that will work for everyone. You are essentially trying to **automate your company's culture using bash scripts**. 5:59 PM · 20 nov. 2017* [tweet](https://twitter.com/kelseyhightower/status/932654629648719872)
+
 
