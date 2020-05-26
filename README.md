@@ -23,6 +23,7 @@ Learn what **respect** is. Then use it on everyone around you.
 > *The best you can do is solve the problems of today based on what you learned yesterday. **Keep learning and stay humble**.
 12:34 PM - 27 Nov 2016* [tweet](https://twitter.com/kelseyhightower/status/802973791059988480)
 
+> *When people **disagree** with you, don't miss the opportunity to **listen, and possibly learn** from them. 7:26 PM · May 8, 2020* [tweet](https://twitter.com/kelseyhightower/status/1258795485973712896)
 
 
 
