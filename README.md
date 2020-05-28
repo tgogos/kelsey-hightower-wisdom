@@ -69,6 +69,9 @@ Learn what **respect** is. Then use it on everyone around you.
 >   
 > *Landing is only available in the Enterprise version.*
 
+> *Upper **management** making all the **technology decisions** is like your parents buying your school clothes... without you. 9:23 PM · Sep 5, 2017* [tweet](https://twitter.com/kelseyhightower/status/905134235614416896)
+
+
 
 ## Videos
 
