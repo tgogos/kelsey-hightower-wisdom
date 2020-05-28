@@ -29,8 +29,6 @@ Learn what **respect** is. Then use it on everyone around you.
 
 ## Tech...
 
-> *Every product should start with the **"cli deploy"** happy path and then leverage configmaps to customize the install further. You'll have to build components that can watch config and automatically adjust. That's the holy grail, everything else feels like a workaround. 4:40 AM · May 28, 2020* [tweet](https://twitter.com/kelseyhightower/status/1265835234483826688)
-
 > *At some point I made the decision to focus on **foundational concepts**; not features of a particular implementation; my tech career took off. 10:33 PM · Jan 31, 2017* [tweet](https://twitter.com/kelseyhightower/status/826528907381739520)
 
 > *2020 prediction: **Monolithic applications** will be back in style after people discover the drawbacks of **distributed monolithic applications**. 6:40 PM · Dec 11, 2017* [tweet](https://twitter.com/kelseyhightower/status/940259898331238402)
@@ -74,6 +72,8 @@ Learn what **respect** is. Then use it on everyone around you.
 > *Upper **management** making all the **technology decisions** is like your parents buying your school clothes... without you. 9:23 PM · Sep 5, 2017* [tweet](https://twitter.com/kelseyhightower/status/905134235614416896)
 
 > *Screwdrivers are going to make hammers obsolete. Silly right? That's what most **tech discussions** turn into. 5:34 PM · Dec 20, 2017* [tweet](https://twitter.com/kelseyhightower/status/943504973547098113)
+
+> *Every product should start with the **"cli deploy"** happy path and then leverage configmaps to customize the install further. You'll have to build components that can watch config and automatically adjust. That's the holy grail, everything else feels like a workaround. 4:40 AM · May 28, 2020* [tweet](https://twitter.com/kelseyhightower/status/1265835234483826688)
 
 ## Videos
 
