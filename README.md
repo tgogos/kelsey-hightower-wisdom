@@ -71,7 +71,7 @@ Learn what **respect** is. Then use it on everyone around you.
 
 > *Upper **management** making all the **technology decisions** is like your parents buying your school clothes... without you. 9:23 PM · Sep 5, 2017* [tweet](https://twitter.com/kelseyhightower/status/905134235614416896)
 
-
+> *Screwdrivers are going to make hammers obsolete. Silly right? That's what most **tech discussions** turn into. 5:34 PM · Dec 20, 2017* [tweet](https://twitter.com/kelseyhightower/status/943504973547098113)
 
 ## Videos
 
