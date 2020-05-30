@@ -25,7 +25,7 @@ Learn what **respect** is. Then use it on everyone around you.
 
 > *When people **disagree** with you, don't miss the opportunity to **listen, and possibly learn** from them. 7:26 PM · May 8, 2020* [tweet](https://twitter.com/kelseyhightower/status/1258795485973712896)
 
-
+> *Pay attention because **ignorance is expensive**. 5:43 PM · May 29, 2020* [tweet](https://twitter.com/kelseyhightower/status/1266379648264364033)
 
 ## Tech...
 
