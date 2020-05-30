@@ -80,8 +80,8 @@ Learn what **respect** is. Then use it on everyone around you.
 > *There is no single **continuous integration and delivery setup** that will work for everyone. You are essentially trying to **automate your company's culture using bash scripts**.  
 5:59 PM · 20 nov. 2017* [tweet](https://twitter.com/kelseyhightower/status/932654629648719872)
 
-> *They’re just making **CRDs for everything**. There are CRDs to take a shower. I’m like “Dude, no. You just literally go take a shower. You don’t need to do kubectl apply. Take a shower! Like, come on, we’re going a little bit too far…  
-Recorded Jan 7, 2020”* [podcast](https://changelog.com/gotime/114#t=00:18:15.00)
+> *They’re just making **CRDs for everything**. There are CRDs to take a shower. I’m like “Dude, no. You just literally go take a shower. You don’t need to do kubectl apply. Take a shower! Like, come on, we’re going a little bit too far…”  
+Recorded Jan 7, 2020* [podcast](https://changelog.com/gotime/114#t=00:18:15.00)
 
 > *Maintaining an **open-source** project is like being a Flight Attendant for an airline where all tickets are **free** and the majority of customer surveys offer **suggestions on how to** fly the airplane.  
 4:41 PM · Jan 30, 2018* [tweet](https://twitter.com/kelseyhightower/status/958349496076742658)  
