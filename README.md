@@ -120,6 +120,8 @@ Recorded Jan 7, 2020* [podcast](https://changelog.com/gotime/114#t=00:18:15.00)
 
 > *...when I wake up I like to believe that I'm successful because of the work that I do. I like to believe that **I'm successful for the value that I brought to me and others**...*
 
+> *...it is important to **share the success** because I always tell people **there's no way you succeed by yourself***
+
 > *...it's a weird definition to say I'm a **senior engineer** but the thing is you can be a **mature engineer** and be humble enough to know that it's gonna be a cycle. You're gonna be really good at stuff and they're going to be new to stuff and **you should always try to go and figure out a world where you can be new to stuff**. Okay that's how you're going to grow.*
 
 > ***Be careful, not to go out and get 20 years of one-year experience**. You only have a limited time to make an impact, think about using it wisely...*
