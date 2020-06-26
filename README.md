@@ -111,12 +111,14 @@ Recorded Jan 7, 2020* [podcast](https://changelog.com/gotime/114#t=00:18:15.00)
 > **it's not a race if we're all on the same team***
 
 
-### On being debt-free | time/money | success
+### On being debt-free | time/money | success | seniority
 [Hashiconf 2020 - Kelsey Hightower Fireside Chat](https://www.youtube.com/watch?v=pzfRtcPrTD0)
 
 > *...that was a milestone when I said now I'm free I'm never going down this road again. **I don't care about buying fancy clothes or shoes or watches or cars I am done with the trying to impress everybody else**. I'm finished with that and that was the first milestone that lets me focus on everything else...*
 
 > *...once you start to understand that **time is probably worth more than money**, then you treat both differently...*
+
+> *...when I wake up I like to believe that I'm successful because of the work that I do. I like to believe that **I'm successful for the value that I brought to me and others**...*
 
 > *...it's a weird definition to say I'm a **senior engineer** but the thing is you can be a **mature engineer** and be humble enough to know that it's gonna be a cycle. You're gonna be really good at stuff and they're going to be new to stuff and **you should always try to go and figure out a world where you can be new to stuff**. Okay that's how you're going to grow.*
 
