@@ -109,3 +109,9 @@ Recorded Jan 7, 2020* [podcast](https://changelog.com/gotime/114#t=00:18:15.00)
 > you can always remember that you did your part to move the whole project forward...  
 > you will always be a part of history no matter how big or how small your contribution was...  
 > **it's not a race if we're all on the same team***
+
+
+### On being debt-free
+[Hashiconf 2020 - Kelsey Hightower Fireside Chat](https://www.youtube.com/watch?v=pzfRtcPrTD0)
+
+> *...that was a milestone when I said now I'm free I'm never going down this road again. **I don't care about buying fancy clothes or shoes or watches or cars I am done with the trying to impress everybody else**. I'm finished with that and that was the first milestone that lets me focus on everything else...*
