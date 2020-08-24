@@ -1,9 +1,6 @@
 # kelsey-hightower-wisdom
 tweets &amp; quotes from Kelsey Hightower
 
-## Awe
-> Extra dope! [tweet](https://twitter.com/kelseyhightower/status/1260594037855117312)
-
 ## Life...
 
 > *Don't take all the **credit**. Leave some for those doing the work.  
