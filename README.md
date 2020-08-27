@@ -3,6 +3,9 @@ tweets &amp; quotes from Kelsey Hightower
 
 ## Life...
 
+> *Never forget **where you come from** so you'll remember to **help those who come after you**.*  
+8:40 PM · Aug 26, 2020 [tweet](https://twitter.com/kelseyhightower/status/1298676811576954880)
+
 > *Don't take all the **credit**. Leave some for those doing the work.  
 7:09 PM · Apr 9, 2020* [tweet](https://twitter.com/kelseyhightower/status/1248281950130847745)
 
