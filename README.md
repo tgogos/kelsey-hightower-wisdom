@@ -1,3 +1,5 @@
+[![markdown-link-check](https://github.com/tgogos/kelsey-hightower-wisdom/workflows/Check%20Markdown%20links/badge.svg)](https://github.com/tgogos/kelsey-hightower-wisdom/actions)
+
 # kelsey-hightower-wisdom
 tweets &amp; quotes from Kelsey Hightower
 
