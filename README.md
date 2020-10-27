@@ -3,6 +3,10 @@
 # kelsey-hightower-wisdom
 tweets &amp; quotes from Kelsey Hightower
 
+
+
+
+
 ## Life...
 
 > *Never forget **where you come from** so you'll remember to **help those who come after you**.*  
@@ -34,6 +38,11 @@ Learn what **respect** is. Then use it on everyone around you.
 
 > *Pay attention because **ignorance is expensive**.  
 5:43 PM · May 29, 2020* [tweet](https://twitter.com/kelseyhightower/status/1266379648264364033)
+
+
+
+
+
 
 ## Tech...
 
@@ -98,6 +107,12 @@ Recorded Jan 7, 2020* [podcast](https://changelog.com/gotime/114#t=00:18:15.00)
 
 > *Every product should start with the **"cli deploy"** happy path and then leverage configmaps to customize the install further. You'll have to build components that can watch config and automatically adjust. That's the holy grail, everything else feels like a workaround.  
 4:40 AM · May 28, 2020* [tweet](https://twitter.com/kelseyhightower/status/1265835234483826688)
+
+> ***Move slow and fix things.**  
+7:44 PM · Oct 26, 2020* [tweet](https://twitter.com/kelseyhightower/status/1320783418515337217)
+
+
+
 
 ## Videos
 
