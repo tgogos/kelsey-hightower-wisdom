@@ -108,6 +108,9 @@ Recorded Jan 7, 2020* [podcast](https://changelog.com/gotime/114#t=00:18:15.00)
 > *Every product should start with the **"cli deploy"** happy path and then leverage configmaps to customize the install further. You'll have to build components that can watch config and automatically adjust. That's the holy grail, everything else feels like a workaround.  
 4:40 AM · May 28, 2020* [tweet](https://twitter.com/kelseyhightower/status/1265835234483826688)
 
+> ***Microservices** are probably closer to like, trying to be a **politician with no experience** on how to govern 100 million people.*  
+October 20th, 2020 Stackoverflow [podcast](https://the-stack-overflow-podcast.simplecast.com/episodes/kelsey-hightower-kubernetes-service-mesh-microservices-cloud-development/)
+
 > ***Move slow and fix things.**  
 7:44 PM · Oct 26, 2020* [tweet](https://twitter.com/kelseyhightower/status/1320783418515337217)
 
