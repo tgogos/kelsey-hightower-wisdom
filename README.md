@@ -9,6 +9,9 @@ tweets &amp; quotes from Kelsey Hightower
 
 ## Life...
 
+> *Making **money** is not your purpose in life.*  
+6:26 PM · Feb 8, 2021 [tweet](https://twitter.com/kelseyhightower/status/1358814467056828431)
+
 > *Never forget **where you come from** so you'll remember to **help those who come after you**.*  
 8:40 PM · Aug 26, 2020 [tweet](https://twitter.com/kelseyhightower/status/1298676811576954880)
 
