@@ -45,6 +45,8 @@ Learn what **respect** is. Then use it on everyone around you.
 > *The world has a **gambling problem** and we keep trying to find ways to legitimize it.*  
 4:48 PM · Jan 5, 2022 [tweet](https://twitter.com/kelseyhightower/status/1478740230689615873)
 
+> *The magician's **power** comes from being the only one that **understands how something works**. Learn how it works and they won't be able to trick you.*  
+> 5:44 PM · Dec 20, 2021 [tweet](https://twitter.com/kelseyhightower/status/1472956153466347522)
 
 
 ## Tech...
