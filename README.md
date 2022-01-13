@@ -42,8 +42,8 @@ Learn what **respect** is. Then use it on everyone around you.
 > *Pay attention because **ignorance is expensive**.  
 5:43 PM · May 29, 2020* [tweet](https://twitter.com/kelseyhightower/status/1266379648264364033)
 
-
-
+> *The world has a **gambling problem** and we keep trying to find ways to legitimize it.*  
+4:48 PM · Jan 5, 2022 [tweet](https://twitter.com/kelseyhightower/status/1478740230689615873)
 
 
 
