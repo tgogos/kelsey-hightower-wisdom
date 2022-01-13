@@ -3,7 +3,10 @@
 # kelsey-hightower-wisdom
 tweets &amp; quotes from Kelsey Hightower
 
-
+ - [life](#life)
+ - [tech](#tech)
+ - [crypto](#crypto)
+ - [videos](#videos)
 
 
 
@@ -42,11 +45,11 @@ Learn what **respect** is. Then use it on everyone around you.
 > *Pay attention because **ignorance is expensive**.  
 5:43 PM · May 29, 2020* [tweet](https://twitter.com/kelseyhightower/status/1266379648264364033)
 
-> *The world has a **gambling problem** and we keep trying to find ways to legitimize it.*  
-4:48 PM · Jan 5, 2022 [tweet](https://twitter.com/kelseyhightower/status/1478740230689615873)
+> *The magician's **power** comes from being the only one that **understands how something works**. Learn how it works and they won't be able to trick you.  
+> 5:44 PM · Dec 20, 2021* [tweet](https://twitter.com/kelseyhightower/status/1472956153466347522)
 
-> *The magician's **power** comes from being the only one that **understands how something works**. Learn how it works and they won't be able to trick you.*  
-> 5:44 PM · Dec 20, 2021 [tweet](https://twitter.com/kelseyhightower/status/1472956153466347522)
+> *Pursuing a **CS degree** isn't a waste of time. Assuming those who chose not to are inferior is.  
+> 8:29 PM · Aug 31, 2021* [tweet](https://twitter.com/kelseyhightower/status/1432757467126009871)
 
 
 ## Tech...
@@ -126,10 +129,13 @@ October 20th, 2020 Stackoverflow [podcast](https://the-stack-overflow-podcast.si
 
 ## Crypto
 
+> *The world has a **gambling problem** and we keep trying to find ways to legitimize it.  
+4:48 PM · Jan 5, 2022* [tweet](https://twitter.com/kelseyhightower/status/1478740230689615873)
+
 > *A while back I met a self-proclaimed bro who spends all his time literally **destroying the world looking for coins**.  
 > The funny thing about it all, he never bought anything  with the coins, but kept collecting them as if his life depended on it.  
 > 9:58 AM · Oct 3, 2021* [tweet](https://twitter.com/kelseyhightower/status/1444557504344588289)  
-> ![](/imgs/FAwZZNrUYAIrZes.jpg)
+> [![](/imgs/FAwZZNrUYAIrZes.jpg)](#)
 
 
 
