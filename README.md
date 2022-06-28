@@ -12,6 +12,9 @@ tweets &amp; quotes from Kelsey Hightower
 
 ## Life...
 
+> *Even if you can only **help one person**, it's still worth doing.*  
+11:58 PM · Jun 24, 2022 [tweet](https://twitter.com/kelseyhightower/status/1540439147122282498)
+
 > *Making **money** is not your purpose in life.*  
 6:26 PM · Feb 8, 2021 [tweet](https://twitter.com/kelseyhightower/status/1358814467056828431)
 
