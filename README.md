@@ -12,23 +12,17 @@ tweets &amp; quotes from Kelsey Hightower
 
 ## Life...
 
-> *Even if you can only **help one person**, it's still worth doing.*  
-11:58 PM · Jun 24, 2022 [tweet](https://twitter.com/kelseyhightower/status/1540439147122282498)
+**2016**
 
-> *Making **money** is not your purpose in life.*  
-6:26 PM · Feb 8, 2021 [tweet](https://twitter.com/kelseyhightower/status/1358814467056828431)
+> *The best you can do is solve the problems of today based on what you learned yesterday. **Keep learning and stay humble**.  
+12:34 PM - 27 Nov 2016* [tweet](https://twitter.com/kelseyhightower/status/802973791059988480)
 
-> *Never forget **where you come from** so you'll remember to **help those who come after you**.*  
-8:40 PM · Aug 26, 2020 [tweet](https://twitter.com/kelseyhightower/status/1298676811576954880)
 
-> *Don't take all the **credit**. Leave some for those doing the work.  
-7:09 PM · Apr 9, 2020* [tweet](https://twitter.com/kelseyhightower/status/1248281950130847745)
 
-> *We spend too much **time** trying to make **money**.  
-10:38 PM · Mar 15, 2020* [tweet](https://twitter.com/kelseyhightower/status/1239290010454462464) 
+**2018**
 
-> *Once you've found **success**, your next goal should be **helping others** do the same.  
-11:58 PM - 19 Oct 2018* [tweet](https://twitter.com/kelseyhightower/status/1053389901117325312)
+> ***Slow down** so you can speed up.  
+3:15 AM · Mar 26, 2018* [tweet](https://twitter.com/kelseyhightower/status/978062925972758529)
 
 > *What skills should I invest in?  
 People skills.  
@@ -36,11 +30,18 @@ No. I mean what tools and best practices should I learn?
 Learn what **respect** is. Then use it on everyone around you.  
 8:08 PM - 26 Jun 2018* [tweet](https://twitter.com/kelseyhightower/status/1011808350529622016)
 
-> ***Slow down** so you can speed up.  
-3:15 AM · Mar 26, 2018* [tweet](https://twitter.com/kelseyhightower/status/978062925972758529)
+> *Once you've found **success**, your next goal should be **helping others** do the same.  
+11:58 PM - 19 Oct 2018* [tweet](https://twitter.com/kelseyhightower/status/1053389901117325312)
 
-> *The best you can do is solve the problems of today based on what you learned yesterday. **Keep learning and stay humble**.  
-12:34 PM - 27 Nov 2016* [tweet](https://twitter.com/kelseyhightower/status/802973791059988480)
+
+
+**2020**
+
+> *We spend too much **time** trying to make **money**.  
+10:38 PM · Mar 15, 2020* [tweet](https://twitter.com/kelseyhightower/status/1239290010454462464) 
+
+> *Don't take all the **credit**. Leave some for those doing the work.  
+7:09 PM · Apr 9, 2020* [tweet](https://twitter.com/kelseyhightower/status/1248281950130847745)
 
 > *When people **disagree** with you, don't miss the opportunity to **listen, and possibly learn** from them.  
 7:26 PM · May 8, 2020* [tweet](https://twitter.com/kelseyhightower/status/1258795485973712896)
@@ -48,11 +49,34 @@ Learn what **respect** is. Then use it on everyone around you.
 > *Pay attention because **ignorance is expensive**.  
 5:43 PM · May 29, 2020* [tweet](https://twitter.com/kelseyhightower/status/1266379648264364033)
 
-> *The magician's **power** comes from being the only one that **understands how something works**. Learn how it works and they won't be able to trick you.  
-> 5:44 PM · Dec 20, 2021* [tweet](https://twitter.com/kelseyhightower/status/1472956153466347522)
+> *Never forget **where you come from** so you'll remember to **help those who come after you**.*  
+8:40 PM · Aug 26, 2020 [tweet](https://twitter.com/kelseyhightower/status/1298676811576954880)
+
+
+
+**2021**
+
+> *Making **money** is not your purpose in life.*  
+6:26 PM · Feb 8, 2021 [tweet](https://twitter.com/kelseyhightower/status/1358814467056828431)
 
 > *Pursuing a **CS degree** isn't a waste of time. Assuming those who chose not to are inferior is.  
 > 8:29 PM · Aug 31, 2021* [tweet](https://twitter.com/kelseyhightower/status/1432757467126009871)
+
+> *The magician's **power** comes from being the only one that **understands how something works**. Learn how it works and they won't be able to trick you.  
+> 5:44 PM · Dec 20, 2021* [tweet](https://twitter.com/kelseyhightower/status/1472956153466347522)
+
+
+
+
+**2022**
+
+> *Even if you can only **help one person**, it's still worth doing.*  
+11:58 PM · Jun 24, 2022 [tweet](https://twitter.com/kelseyhightower/status/1540439147122282498)
+
+
+
+
+
 
 
 ## Tech...
