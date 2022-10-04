@@ -110,11 +110,19 @@ Learn what **respect** is. Then use it on everyone around you.
 > *At some point I made the decision to focus on **foundational concepts**; not features of a particular implementation; my tech career took off.  
 10:33 PM · Jan 31, 2017* [tweet](https://twitter.com/kelseyhightower/status/826528907381739520)
 
-> *2020 prediction: **Monolithic applications** will be back in style after people discover the drawbacks of **distributed monolithic applications**.  
-6:40 PM · Dec 11, 2017* [tweet](https://twitter.com/kelseyhightower/status/940259898331238402)
+> *Upper **management** making all the **technology decisions** is like your parents buying your school clothes... without you.  
+9:23 PM · Sep 5, 2017* [tweet](https://twitter.com/kelseyhightower/status/905134235614416896)
 
 > *There is no single **continuous integration and delivery setup** that will work for everyone. You are essentially trying to **automate your company's culture using bash scripts**.  
 5:59 PM · 20 Nov. 2017* [tweet](https://twitter.com/kelseyhightower/status/932654629648719872)
+
+> *2020 prediction: **Monolithic applications** will be back in style after people discover the drawbacks of **distributed monolithic applications**.  
+6:40 PM · Dec 11, 2017* [tweet](https://twitter.com/kelseyhightower/status/940259898331238402)
+
+> *Screwdrivers are going to make hammers obsolete. Silly right? That's what most **tech discussions** turn into.  
+5:34 PM · Dec 20, 2017* [tweet](https://twitter.com/kelseyhightower/status/943504973547098113)
+
+
 
 **2018**
 
@@ -152,40 +160,6 @@ Learn what **respect** is. Then use it on everyone around you.
 > *They’re just making **CRDs for everything**. There are CRDs to take a shower. I’m like “Dude, no. You just literally go take a shower. You don’t need to do kubectl apply. Take a shower! Like, come on, we’re going a little bit too far…”  
 Recorded Jan 7, 2020* [podcast](https://changelog.com/gotime/114#t=00:18:15.00)
 
-**2021**
-
-**2022**
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-> *Upper **management** making all the **technology decisions** is like your parents buying your school clothes... without you.  
-9:23 PM · Sep 5, 2017* [tweet](https://twitter.com/kelseyhightower/status/905134235614416896)
-
-> *Screwdrivers are going to make hammers obsolete. Silly right? That's what most **tech discussions** turn into.  
-5:34 PM · Dec 20, 2017* [tweet](https://twitter.com/kelseyhightower/status/943504973547098113)
-
 > *Every product should start with the **"cli deploy"** happy path and then leverage configmaps to customize the install further. You'll have to build components that can watch config and automatically adjust. That's the holy grail, everything else feels like a workaround.  
 4:40 AM · May 28, 2020* [tweet](https://twitter.com/kelseyhightower/status/1265835234483826688)
 
@@ -197,6 +171,17 @@ October 20th, 2020 Stackoverflow [podcast](https://the-stack-overflow-podcast.si
 
 > ***Move slow and fix things.**  
 7:44 PM · Oct 26, 2020* [tweet](https://twitter.com/kelseyhightower/status/1320783418515337217)
+
+**2021**
+
+**2022**
+
+
+
+
+
+
+
 
 
 
