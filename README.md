@@ -81,17 +81,59 @@ Learn what **respect** is. Then use it on everyone around you.
 
 ## Tech...
 
+**2015**
+
+> *People try to **copy Netflix**, but they can only copy what they see. You are **copying the results, not the process**. @adrianco #softwarecircus*  
+11:08 AM · Sep 10, 2015 [tweet](https://twitter.com/kelseyhightower/status/641886057391345664)
+
+
+
+**2016**
+
+> ***Distributed systems** are hard. You can bootstrap one in 10 minutes, but it's going to take a real time investment to understand how it works.  
+6:35 AM - 4 Aug 2016* [tweet](https://twitter.com/kelseyhightower/status/761193812836229120)
+
+> *Autoscaling. It's much harder than people think. Imaging trying to autoscale containers and the underlying VMs? Ever played musical chairs?  
+9:51 PM - 15 Dec 2016* [tweet](https://twitter.com/kelseyhightower/status/809637147103723521)
+
+> ***Container networking** is fundamentally incompatible with current **IaaS** offerings, and introduces a ton of complexity.  
+9:42 PM - 15 Dec 2016* [tweet](https://twitter.com/kelseyhightower/status/809634759550767104)
+
+> *It was much easier to deal with **storage on VMs** because things were fairly static; container management platforms changes everything.  
+9:48 PM - 15 Dec 2016* [tweet](https://twitter.com/kelseyhightower/status/809636364085903360)
+
+
+
+
+**2017**
+
 > *At some point I made the decision to focus on **foundational concepts**; not features of a particular implementation; my tech career took off.  
 10:33 PM · Jan 31, 2017* [tweet](https://twitter.com/kelseyhightower/status/826528907381739520)
 
 > *2020 prediction: **Monolithic applications** will be back in style after people discover the drawbacks of **distributed monolithic applications**.  
 6:40 PM · Dec 11, 2017* [tweet](https://twitter.com/kelseyhightower/status/940259898331238402)
 
-> *People try to **copy Netflix**, but they can only copy what they see. You are **copying the results, not the process**. @adrianco #softwarecircus*  
-11:08 AM · Sep 10, 2015 [tweet](https://twitter.com/kelseyhightower/status/641886057391345664)
+> *There is no single **continuous integration and delivery setup** that will work for everyone. You are essentially trying to **automate your company's culture using bash scripts**.  
+5:59 PM · 20 Nov. 2017* [tweet](https://twitter.com/kelseyhightower/status/932654629648719872)
+
+**2018**
+
+> *Maintaining an **open-source** project is like being a Flight Attendant for an airline where all tickets are **free** and the majority of customer surveys offer **suggestions on how to** fly the airplane.  
+4:41 PM · Jan 30, 2018* [tweet](https://twitter.com/kelseyhightower/status/958349496076742658)  
+>   
+> *Landing is only available in the Enterprise version.*
 
 > *You haven't **mastered a tool** until you understand when it should not be used.  
 5:02 PM · Feb 13, 2018* [tweet](https://twitter.com/kelseyhightower/status/963428093292457984)
+
+> *Treating **containers like a black box** will eventually leave you in the dark.  
+7:52 AM - 22 Jun 2018* [tweet](https://twitter.com/kelseyhightower/status/1010173688900014080)
+
+> *My journey to FaaS has been less about **learning something new** and more about **unlearning something old**.  
+7:53 AM - 22 Aug 2018* [tweet](https://twitter.com/kelseyhightower/status/1032279551278116866)
+
+
+**2019**
 
 > *As an industry we tend to build overly complex solutions and dedicate our careers justifying their existence. This typically results in **technical debt** and ultimately bankruptcy.  
 8:47 AM - 14 Feb 2019* [tweet](https://twitter.com/kelseyhightower/status/1096088567170748416)
@@ -99,40 +141,44 @@ Learn what **respect** is. Then use it on everyone around you.
 > *Selling **complexity** will eventually cost you.  
 5:06 PM - 14 Feb 2019* [tweet](https://twitter.com/kelseyhightower/status/1096063242672074753)
 
-> *Treating **containers like a black box** will eventually leave you in the dark.  
-7:52 AM - 22 Jun 2018* [tweet](https://twitter.com/kelseyhightower/status/1010173688900014080)
-
-> ***Distributed systems** are hard. You can bootstrap one in 10 minutes, but it's going to take a real time investment to understand how it works.  
-6:35 AM - 4 Aug 2016* [tweet](https://twitter.com/kelseyhightower/status/761193812836229120)
-
-> *My journey to FaaS has been less about **learning something new** and more about **unlearning something old**.  
-7:53 AM - 22 Aug 2018* [tweet](https://twitter.com/kelseyhightower/status/1032279551278116866)
-
-> *Autoscaling. It's much harder than people think. Imaging trying to autoscale containers and the underlying VMs? Ever played musical chairs?  
-9:51 PM - 15 Dec 2016* [tweet](https://twitter.com/kelseyhightower/status/809637147103723521)
-
-> *It was much easier to deal with **storage on VMs** because things were fairly static; container management platforms changes everything.  
-9:48 PM - 15 Dec 2016* [tweet](https://twitter.com/kelseyhightower/status/809636364085903360)
-
-> ***Container networking** is fundamentally incompatible with current **IaaS** offerings, and introduces a ton of complexity.  
-9:42 PM - 15 Dec 2016* [tweet](https://twitter.com/kelseyhightower/status/809634759550767104)
-
 > ***service mess  /ˈsərvəs mes/***  
 *noun*  
 >  
 >*1. the result of **spending more compute resources than your actual business logic** dynamically generating and distributing Envoy proxy configs and TLS certificates.  
 12:43 AM · Jul 14, 2019* [tweet](https://twitter.com/kelseyhightower/status/1150158904900431873)
 
-> *There is no single **continuous integration and delivery setup** that will work for everyone. You are essentially trying to **automate your company's culture using bash scripts**.  
-5:59 PM · 20 nov. 2017* [tweet](https://twitter.com/kelseyhightower/status/932654629648719872)
+**2020**
 
 > *They’re just making **CRDs for everything**. There are CRDs to take a shower. I’m like “Dude, no. You just literally go take a shower. You don’t need to do kubectl apply. Take a shower! Like, come on, we’re going a little bit too far…”  
 Recorded Jan 7, 2020* [podcast](https://changelog.com/gotime/114#t=00:18:15.00)
 
-> *Maintaining an **open-source** project is like being a Flight Attendant for an airline where all tickets are **free** and the majority of customer surveys offer **suggestions on how to** fly the airplane.  
-4:41 PM · Jan 30, 2018* [tweet](https://twitter.com/kelseyhightower/status/958349496076742658)  
->   
-> *Landing is only available in the Enterprise version.*
+**2021**
+
+**2022**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 > *Upper **management** making all the **technology decisions** is like your parents buying your school clothes... without you.  
 9:23 PM · Sep 5, 2017* [tweet](https://twitter.com/kelseyhightower/status/905134235614416896)
