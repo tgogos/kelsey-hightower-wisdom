@@ -190,7 +190,7 @@ October 20th, 2020 Stackoverflow [podcast](https://the-stack-overflow-podcast.si
 > *A while back I met a self-proclaimed bro who spends all his time literally **destroying the world looking for coins**.  
 > The funny thing about it all, he never bought anything  with the coins, but kept collecting them as if his life depended on it.  
 > 9:58 AM · Oct 3, 2021* [tweet](https://twitter.com/kelseyhightower/status/1444557504344588289)  
-> ![](https://raw.githubusercontent.com/tgogos/kelsey-hightower-wisdom/master/imgs/FAwZZNrUYAIrZes.jpg)]
+> ![](https://raw.githubusercontent.com/tgogos/kelsey-hightower-wisdom/master/imgs/FAwZZNrUYAIrZes.jpg)
 
 > *The world has a **gambling problem** and we keep trying to find ways to legitimize it.  
 4:48 PM · Jan 5, 2022* [tweet](https://twitter.com/kelseyhightower/status/1478740230689615873)
