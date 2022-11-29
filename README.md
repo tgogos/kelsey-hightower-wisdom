@@ -218,6 +218,9 @@ October 20th, 2020 Stackoverflow [podcast](https://the-stack-overflow-podcast.si
 > *The world has a **gambling problem** and we keep trying to find ways to legitimize it.  
 4:48 PM · Jan 5, 2022* [tweet](https://twitter.com/kelseyhightower/status/1478740230689615873)
 
+> ***Cryptocurrency** is gaslighting the entire tech industry.*  
+6:45 PM · Jan 25, 2022 [tweet](https://twitter.com/kelseyhightower/status/1486017335005614080)
+
 <br><br><br>
 
 
