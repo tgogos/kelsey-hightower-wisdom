@@ -176,7 +176,8 @@ October 20th, 2020 Stackoverflow [podcast](https://the-stack-overflow-podcast.si
 
 **2022**
 
-
+> *This idea that you have to be an **expert** before you can share your thoughts or opinions is a tool **gatekeepers** use to discourage people from **looking behind the curtains**.*  
+6:29 PM · Jun 1, 2022 [tweet](https://twitter.com/kelseyhightower/status/1532021508222111747)
 
 
 
