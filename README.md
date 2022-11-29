@@ -8,6 +8,11 @@ tweets &amp; quotes from Kelsey Hightower
  - [crypto](#crypto)
  - [videos](#videos)
 
+<br><br><br>
+
+
+
+
 
 
 ## Life...
@@ -75,6 +80,10 @@ Learn what **respect** is. Then use it on everyone around you.
 
 > *Even if you can only **help one person**, it's still worth doing.*  
 11:58 PM · Jun 24, 2022 [tweet](https://twitter.com/kelseyhightower/status/1540439147122282498)
+
+
+<br><br><br>
+
 
 
 
@@ -179,8 +188,11 @@ October 20th, 2020 Stackoverflow [podcast](https://the-stack-overflow-podcast.si
 
 **2022**
 
+> ***Usage** matures products faster than **hype** does.*  
+6:43 PM · Mar 13, 2022 [tweet](https://twitter.com/kelseyhightower/status/1503049111787884546)
 
 
+<br><br><br>
 
 
 
@@ -196,6 +208,11 @@ October 20th, 2020 Stackoverflow [podcast](https://the-stack-overflow-podcast.si
 
 > *The world has a **gambling problem** and we keep trying to find ways to legitimize it.  
 4:48 PM · Jan 5, 2022* [tweet](https://twitter.com/kelseyhightower/status/1478740230689615873)
+
+<br><br><br>
+
+
+
 
 
 
