@@ -70,6 +70,9 @@ Learn what **respect** is. Then use it on everyone around you.
 
 **2022**
 
+> *This idea that you have to be an **expert** before you can share your thoughts or opinions is a tool **gatekeepers** use to discourage people from **looking behind the curtains**.*  
+6:29 PM · Jun 1, 2022 [tweet](https://twitter.com/kelseyhightower/status/1532021508222111747)
+
 > *Even if you can only **help one person**, it's still worth doing.*  
 11:58 PM · Jun 24, 2022 [tweet](https://twitter.com/kelseyhightower/status/1540439147122282498)
 
@@ -176,8 +179,6 @@ October 20th, 2020 Stackoverflow [podcast](https://the-stack-overflow-podcast.si
 
 **2022**
 
-> *This idea that you have to be an **expert** before you can share your thoughts or opinions is a tool **gatekeepers** use to discourage people from **looking behind the curtains**.*  
-6:29 PM · Jun 1, 2022 [tweet](https://twitter.com/kelseyhightower/status/1532021508222111747)
 
 
 
