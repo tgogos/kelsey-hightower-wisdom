@@ -75,6 +75,9 @@ Learn what **respect** is. Then use it on everyone around you.
 
 **2022**
 
+> ***I have a lot to be thankful for**. It all started when I woke up this morning. I'm one of those lucky people who gets to mark another day on the calendar.*  
+10:06 PM · Feb 14, 2022 [tweet](https://twitter.com/kelseyhightower/status/1493315607994847235)
+
 > *This idea that you have to be an **expert** before you can share your thoughts or opinions is a tool **gatekeepers** use to discourage people from **looking behind the curtains**.*  
 6:29 PM · Jun 1, 2022 [tweet](https://twitter.com/kelseyhightower/status/1532021508222111747)
 
