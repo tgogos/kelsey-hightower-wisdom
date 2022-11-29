@@ -188,6 +188,12 @@ October 20th, 2020 Stackoverflow [podcast](https://the-stack-overflow-podcast.si
 
 **2022**
 
+> *As an industry we've been pushing: **Automate. Automate. Automate.**  
+> We should have been saying: **Understand. Understand. Understand.** Because if you understand what you're doing, you can automate if you want to.*  
+> [Automation is the serialization of understanding](https://changelog.com/posts/automation-is-the-serialization-of-understanding)  
+9:07 PM · Apr 17, 2022 [tweet](https://twitter.com/kelseyhightower/status/1515753714975268868)
+
+
 > ***Usage** matures products faster than **hype** does.*  
 6:43 PM · Mar 13, 2022 [tweet](https://twitter.com/kelseyhightower/status/1503049111787884546)
 
