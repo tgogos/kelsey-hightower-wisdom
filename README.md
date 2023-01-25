@@ -201,6 +201,11 @@ October 20th, 2020 Stackoverflow [podcast](https://the-stack-overflow-podcast.si
 6:43 PM · Mar 13, 2022 [tweet](https://twitter.com/kelseyhightower/status/1503049111787884546)
 
 
+**2023**
+>***Hype cycles** don't last long when people understand **how things actually work**.*  
+5:28 PM · Jan 24, 2023 [tweet](https://twitter.com/kelseyhightower/status/1617907161274937344)
+
+
 <br><br><br>
 
 
