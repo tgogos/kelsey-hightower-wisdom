@@ -85,6 +85,14 @@ Learn what **respect** is. Then use it on everyone around you.
 11:58 PM · Jun 24, 2022 [tweet](https://twitter.com/kelseyhightower/status/1540439147122282498)
 
 
+
+**2023**
+
+> *There is a fine line between **humility** and **arrogance**. **Confidence** is in the middle.*  
+8:40 PM · Aug 30, 2023 [tweet](https://twitter.com/kelseyhightower/status/1696941080716128274)
+
+
+
 <br><br><br>
 
 
