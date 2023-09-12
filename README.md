@@ -214,7 +214,7 @@ October 20th, 2020 Stackoverflow [podcast](https://the-stack-overflow-podcast.si
 >***Hype cycles** don't last long when people understand **how things actually work**.*  
 5:28 PM · Jan 24, 2023 [tweet](https://twitter.com/kelseyhightower/status/1617907161274937344)
 
-> **Done** is the best **metric**.
+> **Done** is the best **metric**.  
 6:56 PM · Sep 9, 2023 [tweet](https://twitter.com/kelseyhightower/status/1700538722729759090)
 
 
